@@ -1,0 +1,6 @@
+URL  		      controller#action 		view
+
+/			pages#index		   app/views/pages/index.html.erb
+/pages/aboutus  	pages#aboutus		   app/views/pages/about.html.erb
+/pages/contact_us 	pages#contact_us	   app/views/pages/contact.html.erb
+/pages/services 	pages#wacky_wednesday	   app/views/pages/wacky_wednesday.html.erb
